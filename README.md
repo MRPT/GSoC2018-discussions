@@ -4,7 +4,7 @@ Each accepted project has its own "issue" ticket. Most of the daily discussion s
 
 ## Projects
 
-* [	Web Frameworks Library for MRPT (Rachit Tibrewal)](https://github.com/MRPT/GSoC2018-discussions/issues/1)
+* [Web Frameworks Library for MRPT (Rachit Tibrewal)](https://github.com/MRPT/GSoC2018-discussions/issues/6)
 * [GUI App for Automatic Extrinsic Calibration of Range and Visual Sensors (Karnik Ram R)](https://github.com/MRPT/GSoC2018-discussions/issues/2)
 * [Port Existing MRPT algorithms for V-REP simulator (Shubham Kumar)](https://github.com/MRPT/GSoC2018-discussions/issues/3)
 * [Add GTSAM as an external dependency to MRPT (Tushar Kusnur)](https://github.com/MRPT/GSoC2018-discussions/issues/4)
